@@ -98,8 +98,3 @@ If the provided data is incorrect or unavailable, the bot will notify the user w
 - **No Authentication Required**: Anyone can use the bot.
 - **Data Privacy**: The bot does not store any personal data.
 - **API Limitations**: Some public APIs may have rate limits or restrictions.
-
----
-
-## 🚀 **Bot Hosting and Maintenance**
-To keep the bot running continuously, consider hosting it on a cloud service like Heroku, AWS, or any server with Python support.
